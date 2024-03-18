@@ -1,0 +1,23 @@
+body{
+ font-family:"Montserrat";  
+ 
+}
+.about-me-section{
+
+}
+.sidebar-section{
+    background-color:#ffccf7;
+}
+.app-wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin:40px auto;
+    
+
+
+}
+.right-side-container{
+    padding-left: 80px;
+    background-color:#eaccff ;
+}
